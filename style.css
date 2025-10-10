@@ -1,20 +1,27 @@
 main {
 	width: 80ch;
 	margin: auto;
+background: white;
 
 }
+
+body 
+{
+    background: #8A1900;
+}
+
 
 summary {
 	font-weight: bold;
 	font-size: 1.6rem;
-background: #FFE561;
+background-color: #FFB92E
+
 }
 
 details {
-background: #61FFE5;
 padding: 1rem;
 }
 
 h1
-{	color: blue;
+{	color: black;
 }
