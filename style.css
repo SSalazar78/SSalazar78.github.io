@@ -1,5 +1,5 @@
 main {
-	width: 80ch;
+	width: 100ch;
 	margin: auto;
 background: white;
 
@@ -7,14 +7,15 @@ background: white;
 
 body 
 {
-    background: #8A1900;
+    background: #F8D363
+;
 }
 
 
 summary {
 	font-weight: bold;
 	font-size: 1.6rem;
-background-color: #FFB92E
+background-color: #FADD8F
 
 }
 
